@@ -1,0 +1,5 @@
+# Don't publish notes
+notes.md
+
+# Don't publish mock data
+test-*
